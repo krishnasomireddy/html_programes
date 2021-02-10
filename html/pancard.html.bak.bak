@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>pancard</title>
+ </head>
+ <body>
+ <label>accountnumber</label>
+ <input type="number"></input>
+ <br></br>
+ <label>name</label>
+ <input type="name"></input>
+ <br></br>
+ <label>fathername</label>
+ <input type="fathername"></input>
+ <br></br>
+ <label>dateofbirth</label>
+ <input type="dateo"></input>
+  
+ </body>
+</html>

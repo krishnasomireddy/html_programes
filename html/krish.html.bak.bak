@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>krish</title>
+ </head>
+ <body>
+ <h1> my fristwebsite </h1>
+ <h2>krisdfghj</h2>
+ <h3>asdfghjk</h3>
+ <h4>swdfghjk</h4>
+  this is my very frist website and i am<b>extremely excited!</br>
+  <p>
+  Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with.
+  </p>
+  <p>
+
+“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”
+The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
+</p>
+<p>
+
+The passage experienced a surge in popularity.<br><br><br><br>
+</br>
+<i>during the 1960s when Letraset</i>
+<u>used it on their dry-transfer sheets, </u>
+<em>and again during the 90s as desktop publishers</em>
+<strong>bundled the text with their software</strong>
+<hr>Today it's seen all around the web;<a href="httpd://www.google.com" >on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem.
+<img scr="https://via.placeholder.com"/600*300>
+</body>
+</html>

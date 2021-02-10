@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>division</title>
+ </head>
+ <body>
+ <div style="height:50px;width:50%;float=right">
+  <fieldset style="height:50px;width:100px;background-color:red">
+  <legend>emailid</legend>
+  <input style="border:0px;outline:0px"></input>
+  </fieldset>
+  <fieldset style="height:50px;width:100px;background-color:red">
+  <legend>password</legend>
+  <input style="border:0px;outline:0px"></input>
+  </fieldset>
+  <input type="submit"value="signin"></input>
+ </div>
+  <div style="height:50px;width:50%;float=left">
+  <fieldset style="height:50px;width:100px">
+  <legend>emailid</legend>
+  <input style="border:0px;outline:0px"></input>
+  </fieldset>
+  <fieldset style="height:50px;width:100px">
+  <legend>password</legend>
+  <input style="border:0px;outline:0px"></input>
+  </fieldset>
+
+  <input type="submit"value="signout"></input>
+  </div>
+ </body>
+</html>

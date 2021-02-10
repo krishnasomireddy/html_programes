@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>details</title>
+ </head>
+ <body>
+  <form>
+  <label>UPInumber</label>
+  <input  required pattern="[0-9]{4}"type="number"title="number should contain be only 6 digits"></input/>
+  <br></br>
+  <label>IFSC</label>
+  <input pattern="[A-Z]{4}[0]{3}[1-9]{4}"title="alphabets must be uppercase number should be 7 digits"></input>
+  <br></br>
+  <label>moblienumber</label>
+  <input pattern="[+]{1}[9]{1}[1]{1}[6-9]{4}[0-9]{9}"type="number"title="frist only + symbol after  should number digits"></input>
+  <br></br>
+  <label>name</label>
+  <input pattern="[A-Z]{1}[a-z]{5,15}[]{1}"/>
+  <input pattern="[A-Z]{1}[a-z]{5,15}[]{1}"/>
+  <input pattern="[A-Z]{1}[a-z]{5,15}"title="frist lettershould be uppercase after should be lowercase"></input>
+  <input type="submit" value="check"></input>
+  </form>
+  </body>
+</html>

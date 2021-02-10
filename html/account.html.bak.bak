@@ -1,0 +1,26 @@
+
+<html>
+<head>
+  <title>account</title>
+ </head>
+
+ <body>
+ <table>
+ <form>
+ <tr>
+    <td><label>cardnumber</label></td>
+	<td><input pattern="[0-9]{16}"tittle="cardnumber consists of 16 digits"></input></td>
+	<td><input type="submit" value="generate OTP"></input></td>
+	</tr>
+	<tr>
+	<td><label>expirydate</label></td>
+	<td><input type="date"></input></td>
+	</tr>
+	<tr>
+	<td><label>cvv</label></td>
+   <td><input type="password"></input></td>
+   </tr>
+   </form>
+   </table>
+ </body>
+</html>

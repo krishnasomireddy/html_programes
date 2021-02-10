@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>adhaarcard</title>
+ </head>
+ <body>
+ <form>
+ <label>cardnumber</label>
+ <input pattern="[0-9]{12}"title="adhaarcard consist of only 12 digits"></input>
+ <input type="number"></input>
+ </form>
+ <br></br>
+ <label>name</label>
+ <input type="name"></input>
+ <br></br>
+ <label>dateofbirth</label>
+ <input type="date"></input>
+ <br></br>
+ <label>radio</label>
+ <input type="radio" name="sai">male</input>
+ <input type="radio" name="sai">female</input>
+ <br></br>
+ <label>address</label>
+ <input type="address"></input>
+ <br></br>
+ <label>select state</label>
+ <input type="radio" name="aaa">AP</input>
+ <input type="radio" name="aaa">TS</input>
+ <input type="radio" name="aaa">TN</input>
+ <br></br>
+ <label>pinnumber</label>
+ <input type="number"></input>
+ <br></br>
+
+
+  
+ </body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>adhaarcard</title>
+ </head>
+ <body>
+ <form>
+ <table>
+ <label>image<label>
+ <img src="krishnareddy.jpg" width=78px height=70px.></br>
+ <tr>
+ <td><label>cardnumber</label></td>
+<td><input pattern="[0-9]{12}"title="adhaarcard number consist of only 12 digits"></input></td>
+</tr>
+ </form>
+ <br></br>
+ <tr>
+ <td><label>name</label></td>
+ <td><input type="name"></input></td>
+ </tr>
+ <br></br>
+ <tr>
+ <td><label>dateofbirth</label></td>
+ <td><input type="date"></input></td>
+ </tr>
+ <br></br>
+ <tr>
+ <td><label>radio</label></td>
+ <td><input type="radio" name="sai">male</input></td>
+ <td><input type="radio" name="sai">female</input></td>
+ </tr>
+ <br></br>
+ <tr>
+<td><label>address</label></td>
+ <td><input type="address"></input></td>
+ </tr>
+ <br></br>
+ <tr>
+ <td><label>select state</label></td>
+ <td><input type="radio" name="aaa">AP</input></td>
+ <td><input type="radio" name="aaa">TS</input></td>
+ <td><input type="radio" name="aaa">TN</input></td>
+ </tr>
+ <br></br>
+ <tr>
+ <td><label>pinnumber</label></td>
+ <td><input type="number"></input></td>
+ </tr>
+ <br></br>
+
+
+  
+ </body>
+</html>

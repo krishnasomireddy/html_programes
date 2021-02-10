@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>addcard</title>
+ </head>
+ <body>
+ <form>
+    <label>cardnumber</label>
+	<input pattern="[0-9]{16}"tittle="cardnumber consists of 16 digits"></input>
+	<input type="submit" value="generate OTP"></input>
+	</form>
+	<br></br>
+	<label>expirydate</label>
+	<input type="date"></input>
+	<br></br>
+	<label>cvv</label>
+   <input type="password"></input>
+ </body>
+</html>
